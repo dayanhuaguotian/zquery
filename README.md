@@ -1,6 +1,6 @@
 # zquery
 ### 类似与jQuery.js工具库
-### 实现功能
+### 实现功能12313
   1.元素选择$('div')/$('#div')/$('.div')  
   2.对象的获取 $(windown)/$(this)/$(document)  
   3.实例方法 css()/attr()/eq()/index()/find()/html()/mouseover()/click()/on()/hide()/show()/hover()  
